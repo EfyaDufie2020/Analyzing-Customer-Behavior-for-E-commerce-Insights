@@ -1,0 +1,30 @@
+# Lazy Imports for Faster Prototyping
+pyforest  
+ 
+# # Automated Exploratory Data Analysis (EDA)
+# pandas-profiling  
+# ydata-profiling  
+# pydantic-settings  
+# sweetviz  
+ 
+# Data Handling and Manipulation
+pandas  
+numpy  
+scipy
+
+#Big Data Processing
+kafka
+pyspark  
+
+ 
+# Data Visualization
+matplotlib  
+seaborn  
+plotly  
+ 
+# Statistical and Scientific Computing
+statsmodels  
+ 
+# Machine Learning & Recommendation Systems
+scikit-learn 
+
