@@ -2,7 +2,8 @@
 python -m venv .venv
 .venv\Scripts\activate
 python -m pip install --upgrade pip
-python -m pip install -E-Commerce_requirements.txt | python -m pip install -r E-Commerce_v_requirements.txt
+python -m pip install -r E-Commerce_requirements.txt | python -m pip install -r E-Commerce_v_requirements.txt
+
 
 # Version State
 pip freeze > E-Commerce_v_requirements.txt
