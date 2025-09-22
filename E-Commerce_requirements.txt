@@ -13,7 +13,7 @@ numpy
 scipy
 
 #Big Data Processing
-kafka
+kafka-python
 pyspark  
 
  
